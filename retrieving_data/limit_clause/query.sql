@@ -1,0 +1,2 @@
+select distinct continent from country
+limit 3
