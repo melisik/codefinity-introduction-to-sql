@@ -1,0 +1,2 @@
+SELECT name, population, region, capital from country
+where region = 'Southern Europe'
